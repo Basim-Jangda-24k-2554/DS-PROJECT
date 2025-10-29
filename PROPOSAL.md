@@ -21,4 +21,5 @@ The GUI allows users to select an image, perform compression and decompression, 
 | **Hash Table / Map**          | Store Huffman codes for each pixel value           |
 | **String / Bit Manipulation** | Build and store Huffman binary codes               |
 
+Note: This is a rough idea and some things can change
 
